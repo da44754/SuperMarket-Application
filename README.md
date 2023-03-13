@@ -1,7 +1,7 @@
 # SuperMarket-Application
 This is a desktop application that helps the supermarket owners provide services
 to people.
-##Application Features:
+## Application Features:
 •Sign up a new customer.
 •Update customer data.
 •Remove customer.
